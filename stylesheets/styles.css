@@ -780,10 +780,11 @@ dt {
   font-size: 11px;
 }
 #header nav li.h1 {
-  float: center;
+  float: left;
   font-family: 'OpenSansLight', "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-weight: normal;
   font-size: 40px;
+  text-shadow: 0px 1px 0px rgba(0, 0, 0, 0.2);  
 }
 #header nav li.p {
   color: #d7cfbe;
